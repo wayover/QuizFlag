@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizFlag</string>
+    <string name="action_settings">Setings</string>
+    <string name="first_fragment_label">Firts Fragment</string>
+    <string name="number_of_choices">Number of choices</string>
+    <string name="default_region">North America</string>
+    <string name="default_region_message">You must choise minimum one region</string>
+    <string name="guess_country">Guess country</string>
+    <string name="image_description">Image current flag</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+    <string name="number_of_choices_description">Show 2, 4, 6 or 8 choices</string>
+    <string name="question">"Question %1$d of %2$d "</string>
+    <string name="reset_quiz">Reset quiz</string>
+    <string name="restarting_quiz">The quiz will restart with the new settings</string>
+    <string name="results">%1$d questions, %2$.02f%% correct</string>
+    <string name="world_regions">Region</string>
+    <string name="world_regions_description">Region to apply in the quiz</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizFlag</string>
+    <string name="action_settings">Opcje</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="number_of_choices">Liczba możliwości</string>
+    <string name="default_region">Północna ameryka</string>
+    <string name="default_region_message">Musisz wybrać przynajmniej jeden obszar. Jako domyślny obszar wybrano Amerykę północną</string>
+    <string name="guess_country">Jaki to kraj?</string>
+    <string name="image_description">Obraz bieżącej flagi</string>
+    <string name="incorrect_answer">Błąd!</string>
+    <string name="number_of_choices_description">Wyświetla 2, 4, 6 lub 8 możliwości</string>
+    <string name="question">Pytanie %1$d z %2$d</string>
+    <string name="reset_quiz">Resetuj quiz</string>
+    <string name="restarting_quiz">Quiz zostanie uruchomiony ponownie z nowymi ustawieniami</string>
+    <string name="results">%1$d odpowiedzi, %2$.02f%% poprawnych</string>
+    <string name="world_regions">Obszary</string>
+    <string name="world_regions_description">Obszary, których ma dotyczyć quiz</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
